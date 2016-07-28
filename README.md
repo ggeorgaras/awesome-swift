@@ -59,6 +59,7 @@ A curated list of awesome Swift frameworks, libraries and software. Inspired by 
 ## Files
 
 * [FileKit](https://github.com/nvzqz/FileKit/) - Simple and expressive file management in Swift.
+* [FileBrowser](https://github.com/marmelroy/FileBrowser) - Finder-style iOS file browser written in Swift.
 
 ## JSON/XML Manipulation
 
